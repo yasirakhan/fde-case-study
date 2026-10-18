@@ -27,7 +27,7 @@ This tool processes incoming customer support tickets and computes similarity sc
     └── data/
         ├── tickets.json               # 40 synthetic historical support tickets
         └── new_tickets_example.json   # 4 incoming test tickets
-
+```
 
 **Quick Start Guide**
 1. **Prerequisites**
